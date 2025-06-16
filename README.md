@@ -33,7 +33,7 @@ Esta es una aplicación desarrollada con React Native que permite registrar visi
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/extensio-app.git
+git clone https://github.com/steffanynaranjov/extensio-app.git
 cd extensio-app
 npm install
 
