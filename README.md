@@ -46,3 +46,14 @@ Este proyecto usa Jest junto con Testing Library para pruebas unitarias:
 ```bash
 npm run test
 ```
+
+## Imagenes del proyecto
+
+### pantalla principal
+
+![Pantalla Principal](assets/images/homescreen.png)
+
+![Modal](assets/images/modalCreate.png)
+
+![Visitas](assets/images/listofViews.png)
+
